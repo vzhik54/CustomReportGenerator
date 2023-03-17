@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.CustomReportTypes", "MyCompany.CustomReportTypes\MyCompany.CustomReportTypes.csproj", "{DE263B19-1A11-48C4-A610-701B7177A069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.CustomHistoryStorage", "MyCompany.CustomHistoryStorage\MyCompany.CustomHistoryStorage.csproj", "{54F24259-A767-4499-9D18-51A4D5318770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE263B19-1A11-48C4-A610-701B7177A069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE263B19-1A11-48C4-A610-701B7177A069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE263B19-1A11-48C4-A610-701B7177A069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE263B19-1A11-48C4-A610-701B7177A069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F24259-A767-4499-9D18-51A4D5318770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F24259-A767-4499-9D18-51A4D5318770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F24259-A767-4499-9D18-51A4D5318770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F24259-A767-4499-9D18-51A4D5318770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C26177-7806-4BF3-8AEE-D843193D0D1A}
+	EndGlobalSection
+EndGlobal

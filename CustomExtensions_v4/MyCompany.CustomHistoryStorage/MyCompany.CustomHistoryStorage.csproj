@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netcoreapp3.1</TargetFrameworks>
+    <AssemblyOriginatorKeyFile>../MyCompany.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.7.7.5" />
+    <PackageReference Include="ReportGenerator.Core" Version="5.1.0" />
+  </ItemGroup>
+
+</Project>
